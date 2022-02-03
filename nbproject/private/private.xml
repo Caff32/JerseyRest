@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Unyleia/Desenvolvimento%20de%20API/ProjectEmpresa/WebEmpresaRest/src/java/br/edu/empresarest/rest/EmpresaResource.java</file>
+            <file>file:/C:/Unyleia/Desenvolvimento%20de%20API/ProjectEmpresa/WebEmpresaRest/src/java/br/edu/empresarest/service/empresaService.java</file>
+            <file>file:/C:/Unyleia/Desenvolvimento%20de%20API/ProjectEmpresa/WebEmpresaRest/src/java/br/edu/empresarest/dao/BaseDAO.java</file>
+            <file>file:/C:/Unyleia/Desenvolvimento%20de%20API/ProjectEmpresa/WebEmpresaRest/src/java/br/edu/empresarest/dao/EmpresaDAO.java</file>
+            <file>file:/C:/Unyleia/Desenvolvimento%20de%20API/ProjectEmpresa/WebEmpresaRest/src/java/br/edu/empresarest/service/Response.java</file>
+            <file>file:/C:/Unyleia/Desenvolvimento%20de%20API/ProjectEmpresa/WebEmpresaRest/web/index.html</file>
+            <file>file:/C:/Unyleia/Desenvolvimento%20de%20API/ProjectEmpresa/WebEmpresaRest/src/java/br/edu/empresarest/rest/MyApplication.java</file>
+            <file>file:/C:/Unyleia/Desenvolvimento%20de%20API/ProjectEmpresa/WebEmpresaRest/src/java/br/edu/empresarest/rest/GsonMessageBodyHandler.java</file>
+            <file>file:/C:/Unyleia/Desenvolvimento%20de%20API/ProjectEmpresa/WebEmpresaRest/src/java/br/edu/empresarest/model/Empresa.java</file>
+        </group>
+    </open-files>
+</project-private>
